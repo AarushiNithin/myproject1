@@ -1,1 +1,46 @@
 
+user storeies from student side.
+
+//updated by Aarushi
+
+Admin side : 
+
+
+User stories:
+
+1) Admin
+2) Student side 
+
+
+Admin :
+
+information required about the students while registering : 
+firstname, last name, DOB, age, school name, address, parent' name, contact number, email id
+genearte the username and password to be generated. for future logins.
+username : e mail id 
+password: -------------
+
+ADMIN PAGE : generate admin side username and password.
+
+Admin page : classes offered and then list of students under them. 
+
+1- Abacus
+2 - carnatic music
+3 - western dance
+4 - classical dance
+5 - keyboard
+6 - violin
+7 - guitar
+8 - TaekwonDo
+9 - tuitions
+10 - Hindi classes
+11 - chess
+12 - Fitness
+13 - yoga
+14 - drawing
+
+
+
+
+
+
