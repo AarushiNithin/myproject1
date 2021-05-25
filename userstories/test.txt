@@ -54,7 +54,7 @@ information to be entered will registering -
  contact number
  email ID
  
-Student page : classes enrolled,classes available,notifications and fees tracker.  
+Student page : classes enrolled,classes available,notifications . 
  
 
  
