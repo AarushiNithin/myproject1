@@ -40,7 +40,26 @@ Admin page : classes offered and then list of students under them.
 14 - drawing
 
 
+Student Side : 
 
+information to be entered will registering - 
+
+ first name 
+ last name
+ DOB
+ age 
+ school name
+ address
+ parent name
+ contact number
+ email ID
+ 
+Student page : classes enrolled,classes available,notifications and fees tracker.  
+ 
+
+ 
+ 
+ 
 
 
 
